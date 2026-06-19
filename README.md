@@ -1,5 +1,7 @@
 # video-notes
 
+**English** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md)
+
 A [Claude Code](https://claude.com/claude-code) skill that turns a **YouTube URL
 or a local video file** into two Markdown files: a key-points note and a full
 timestamped transcript.
