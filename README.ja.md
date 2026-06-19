@@ -1,6 +1,6 @@
 # video-notes
 
-[English](README.md) · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · **日本語** · [한국어](README.ko.md)
+[English](README.md) · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md)
 
 **YouTube の URL またはローカル動画ファイル**を 2 つの Markdown に変換する
 [Claude Code](https://claude.com/claude-code) スキルです。1 つは要点をまとめたノート、

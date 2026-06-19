@@ -1,6 +1,6 @@
 # video-notes
 
-**English** · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+**English** · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md)
 
 A [Claude Code](https://claude.com/claude-code) skill that turns a **YouTube URL
 or a local video file** into two Markdown files: a key-points note and a full

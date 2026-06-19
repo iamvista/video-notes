@@ -1,6 +1,6 @@
 # video-notes
 
-[English](README.md) · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · **한국어**
+[English](README.md) · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Français](README.fr.md)
 
 **YouTube URL 또는 로컬 동영상 파일**을 두 개의 Markdown으로 바꿔 주는
 [Claude Code](https://claude.com/claude-code) 스킬입니다. 하나는 핵심 요점 노트, 다른 하나는
