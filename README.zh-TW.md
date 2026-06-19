@@ -1,6 +1,6 @@
 # video-notes
 
-[English](README.md) · **繁體中文** · [日本語](README.ja.md)
+[English](README.md) · **繁體中文** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 一個 [Claude Code](https://claude.com/claude-code) skill，把 **YouTube 連結或本地影片檔**
 變成兩份 Markdown：一份整理過的重點筆記，一份帶時間戳的完整逐字稿。
