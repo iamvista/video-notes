@@ -42,7 +42,7 @@ subtitles and the Whisper fallback runs.
 Clone into your skills directory:
 
 ```bash
-git clone https://github.com/<you>/video-notes ~/.claude/skills/video-notes
+git clone https://github.com/iamvista/video-notes ~/.claude/skills/video-notes
 ```
 
 Then invoke it in Claude Code:
